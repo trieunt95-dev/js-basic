@@ -23,6 +23,8 @@ var courseName = 'Javascript Basic';
 
 // Cách 2:
 let courseName = 'Javascript Basic';
+
+const PI = 3.14;
 ```
 
 \- **Cách đặt tên biến:**
